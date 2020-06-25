@@ -1,0 +1,8 @@
+README.md
+setup.py
+iCopy/__init__.py
+iCopy/main.py
+iCopy.egg-info/PKG-INFO
+iCopy.egg-info/SOURCES.txt
+iCopy.egg-info/dependency_links.txt
+iCopy.egg-info/top_level.txt
